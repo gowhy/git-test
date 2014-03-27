@@ -15,7 +15,10 @@ namespace AndroidApplication2
         int count = 1;
 
         protected override void OnCreate(Bundle bundle)
-        {
+        { 
+ 
+
+
             base.OnCreate(bundle);
 
             // Set our view from the "main" layout resource
